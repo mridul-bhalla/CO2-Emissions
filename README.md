@@ -1,4 +1,4 @@
-# CO2-Emissions around the globe
+# Webscraping & Analysis of CO2-Emissions related data 
 
 
 ## Table of Contents
